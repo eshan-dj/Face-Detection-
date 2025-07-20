@@ -1,0 +1,21 @@
+              precision    recall  f1-score   support
+
+       Abdur       1.00      1.00      1.00        20
+ Chathuranga       1.00      1.00      1.00        20
+       Dinil       1.00      1.00      1.00        20
+       Eshan       1.00      1.00      1.00        20
+     Harthik       1.00      0.95      0.97        20
+      Lahiru       1.00      1.00      1.00        20
+     Laknadi       1.00      1.00      1.00        20
+      Malith       1.00      1.00      1.00        20
+      Manula       1.00      1.00      1.00        20
+       Nuhan       1.00      0.75      0.86        20
+      Oketha       1.00      1.00      1.00        20
+     Sadeeka       0.95      1.00      0.98        20
+     Sasindu       0.80      1.00      0.89        20
+     Sheneli       1.00      1.00      1.00        20
+    Thevmika       1.00      1.00      1.00        20
+
+    accuracy                           0.98       300
+   macro avg       0.98      0.98      0.98       300
+weighted avg       0.98      0.98      0.98       300
